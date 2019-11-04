@@ -1,0 +1,16 @@
+# Terraform files
+**/.terraform/
+*.tfstate*
+*.tfvars*
+
+# OS X files
+.history
+.DS_Store
+
+# Editors
+.vscode
+.idea
+
+# Test data
+config-map-aws-auth_test*
+kubeconfig_test*
